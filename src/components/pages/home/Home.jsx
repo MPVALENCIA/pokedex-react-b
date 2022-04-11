@@ -5,7 +5,7 @@ export const Home = () => {
   return (
   <DefaultLayout>
     <h1>Hola Mundo!</h1>
- </DefaultLayout>
+  </DefaultLayout>
   );
 };
 
